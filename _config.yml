@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "myungjin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **normal** person."
+  bio              : "I am a **normal** person."
   location         : "South Korea"
   email            :
   links:
